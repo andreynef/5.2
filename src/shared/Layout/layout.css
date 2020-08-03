@@ -1,0 +1,6 @@
+.layout {
+    max-width: 1400px;
+    min-width: 320px;
+    margin: 0 auto;
+    border: 1px solid darkseagreen;
+}
